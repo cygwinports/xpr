@@ -1,4 +1,0 @@
-category: X11
-requires: bash cygutils libX11_6 libXmuu1 xwd
-sdesc: "X.Org X window dump printer"
-ldesc: "X.Org X window dump printer"
